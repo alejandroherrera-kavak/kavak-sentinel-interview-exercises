@@ -1,11 +1,12 @@
 # Ejercicios de entrevista: Backend
 
-Cada carpeta es un mini-servicio independiente en Python 3.11+ con FastAPI y pytest, organizado en capas (`domain`, `application`, `infrastructure`, `presentation`). Arrancan con sus tests en verde.
+`no-contactar/` y `conversaciones-abandonadas/` son mini-servicios independientes en Python 3.11+ con FastAPI y pytest, organizados en capas (`domain`, `application`, `infrastructure`, `presentation`). Arrancan con sus tests en verde. `leer-y-trazar/` no se corre: se lee y se traza a mano.
 
 | Ejercicio | Enunciado |
 |---|---|
 | `no-contactar/` | Ver `no-contactar/README.md` |
 | `conversaciones-abandonadas/` | Ver `conversaciones-abandonadas/README.md` |
+| `leer-y-trazar/` | Ver `leer-y-trazar/README.md` |
 
 ## Cómo correr un ejercicio
 
